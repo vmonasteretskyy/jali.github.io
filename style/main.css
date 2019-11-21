@@ -20,8 +20,12 @@ a {
   color: black;
   cursor: pointer;
 }
+button[type="submit"] {
+  border: none;
+}
 input,
-button :focus {
+button :focus,
+textarea:focus {
   outline: none;
 }
 a:hover {
