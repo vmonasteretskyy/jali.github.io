@@ -846,7 +846,6 @@ textarea {
   background-image: url("../img/pink.png") !important;
   background-size: 100% 150% !important;
   background-position-y: -448px !important;
-  background-attachment: unset !important;
 }
 @media (max-width: 1600px) {
   .trees {
