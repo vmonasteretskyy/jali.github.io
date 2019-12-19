@@ -843,9 +843,10 @@ textarea {
   resize: none;
 }
 .news {
-  background-image: url("../img/pink.png") !important;
-  background-size: 100% 120% !important;
-  background-position-y: 55% !important;
+  background-image: url('../img/Mask_Group.png');
+  background-position-x: right;
+  background-size: 50% 100%;
+}
 }
 @media (max-width: 1600px) {
   .trees {
