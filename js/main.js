@@ -10,3 +10,4 @@ $(".mobile__menu .close_btn").click(function() {
     .hide()
     .css("display", "flex");
 });
+$("input[type='tel']").mask("+380(00)000-00-00");
